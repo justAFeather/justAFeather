@@ -1,6 +1,5 @@
 ## Hi there 👋
-placeholder text
-I don't use this much yet.
+placeholder text <br /> I don't use this much yet.
 <!--
 **justAFeather/justAFeather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
